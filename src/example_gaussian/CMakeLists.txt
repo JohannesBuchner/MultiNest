@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5) 
+cmake_minimum_required(VERSION 2.8.12..3.28) 
 
 # A typical CMake file for a Fortran program will look like this:
 #
